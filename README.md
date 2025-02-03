@@ -55,3 +55,5 @@ Aquí tienes una lista completa que incluye archivos de configuración para dife
 | **GitLab**                 | `/etc/gitlab/gitlab.rb`                        |  
 | **SonarQube**              | `/conf/sonar.properties`                       |  
 | **Jenkins**                | `/config.xml`                                  |  
+| **_wpeprivate**            | `/config.json`                                  | 
+| **_wpeprivate**            | `_wpeprivate/config.json`                       | 
